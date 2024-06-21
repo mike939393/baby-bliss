@@ -1,1 +1,3 @@
-# baby-bliss
+baby-bliss/
+├── index.html
+└── README.md
